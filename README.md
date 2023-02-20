@@ -20,9 +20,8 @@ Mas com alguma reserva, podemos dizer:
 Detectores baseados em região, como o Faster R-CNN, demonstram uma pequena vantagem de precisão se a velocidade em tempo real não for necessária.
 Detectores de disparo único estão aqui para processamento em tempo real. Mas os aplicativos precisam verificar se atendem aos requisitos de precisão.
 
-
-
-Velocidade = fps
 Precisão = mAP
-Resultados exibidos com PASCAL VOC 2007 test set.
-![modelos](https://user-images.githubusercontent.com/122883539/220188444-14d7f843-19c3-4684-b9c3-05966939a44d.PNG)
+
+![gpu](https://user-images.githubusercontent.com/122883539/220191387-993e803d-fe4b-4b31-93e6-b9779699923f.PNG)
+
+
